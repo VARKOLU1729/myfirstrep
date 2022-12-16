@@ -1,2 +1,7 @@
+Github Token generation
+go through the following website
+(7) How to fix GitHub's 'support for password authentication was removed'​ error | LinkedIn
+Github branching visualisation
+Learn Git Branching
 this is my fourth text file
 so,by this the branching is now cleared
