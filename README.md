@@ -1,2 +1,2 @@
 vijay<br>hi<br>
-<h1 color:red>yoyo</h1>
+<h1  style="color:powderblue;">yoyo</h1>
