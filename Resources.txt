@@ -1,2 +1,2 @@
-flask - https://medium.com/@nguyenkims/python-decorator-and-flask-3954dd186cda
+flask- decorators - https://medium.com/@nguyenkims/python-decorator-and-flask-3954dd186cda
 python(beginner) - Telusko
